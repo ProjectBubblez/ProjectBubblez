@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projectbubblez&label=Profile%20views&color=0e75b6&style=flat" alt="projectbubblez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=projectbubblez" alt="projectbubblez" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bubblezproject" target="blank"><img src="https://img.shields.io/twitter/follow/bubblezproject?logo=twitter&style=for-the-badge" alt="bubblezproject" /></a> </p>
 
 - 🔭 We're currently working on [Bubblez.app](https://github.com/ProjectBubblez/Bubblez.app)
@@ -13,7 +11,7 @@
 
 - ⚡ Fun fact **We love everyone.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/bubblezproject" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bubblezproject" height="30" width="40" /></a>
 <a href="https://discord.gg/Agg8huj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Agg8huj" height="30" width="40" /></a>
