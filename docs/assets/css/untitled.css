@@ -1,0 +1,20 @@
+.masthead-fix {
+  min-height: 30rem;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  /*background: linear-gradient(90deg,hsla(0,0%,100%,.1),hsla(0,0%,100%,.1));*/
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (min-width:992px) {
+  .masthead-fix {
+    height: 100vh;
+  }
+}
+
